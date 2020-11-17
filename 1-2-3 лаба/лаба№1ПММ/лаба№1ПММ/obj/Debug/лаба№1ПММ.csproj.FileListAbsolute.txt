@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\bin\Debug\лаба№1ПММ.exe.config
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\bin\Debug\лаба№1ПММ.exe
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\bin\Debug\лаба№1ПММ.pdb
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба_1ПММ.Form1.resources
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба_1ПММ.Properties.Resources.resources
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.csproj.GenerateResource.cache
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.exe
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.pdb
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба_1ПММ.UserControl1.resources
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба_1ПММ.UserControl2.resources
+D:\Downloads\Программирование и математическое моделирование\1-2-3 лаба\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.csprojAssemblyReference.cache
+D:\Downloads\Программирование и математическое моделирование\1-2-3 лаба\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.exe
+D:\Downloads\Программирование и математическое моделирование\1-2-3 лаба\лаба№1ПММ\лаба№1ПММ\obj\Debug\лаба№1ПММ.pdb
