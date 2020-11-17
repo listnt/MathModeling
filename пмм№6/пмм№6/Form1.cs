@@ -212,24 +212,8 @@ namespace пмм_6
             glControl1.MakeCurrent();
             if (!loaded)
                 return;
-         
-
 
             GL.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
-
-
-
-            //for (int i = 0; i < M; i++)
-            //{
-            //    for (int j = 0; j < N; j++)
-            //    {
-            //        for (int k = 0; k < K; k++)
-            //        {
-            //            GL.Color3(T_cur[i][j][k] / 10, 0, 1 - T_cur[i][j][k] / 10);
-            //            DrawCube(i, j, k, 20 * dx, 20 * dy, 20 * dz);
-            //        }
-            //    }
-            //}
 
             for (int j = 0; j < N-1; j++)
             {

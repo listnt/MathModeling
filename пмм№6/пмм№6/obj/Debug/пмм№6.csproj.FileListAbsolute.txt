@@ -24,28 +24,13 @@ D:\Download\repos\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.CoreCompileI
 D:\Download\repos\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.CopyComplete
 D:\Download\repos\пмм№6\пмм№6\obj\Debug\пмм№6.exe
 D:\Download\repos\пмм№6\пмм№6\obj\Debug\пмм№6.pdb
-D:\repository\пмм№6\пмм№6\bin\Debug\пмм№6.exe.config
-D:\repository\пмм№6\пмм№6\bin\Debug\пмм№6.exe
-D:\repository\пмм№6\пмм№6\bin\Debug\пмм№6.pdb
-D:\repository\пмм№6\пмм№6\bin\Debug\OpenTK.dll
-D:\repository\пмм№6\пмм№6\bin\Debug\OpenTK.GLControl.dll
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм№6.csprojAssemblyReference.cache
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм_6.Form1.resources
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм_6.Properties.Resources.resources
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.GenerateResource.cache
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.CoreCompileInputs.cache
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.CopyComplete
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм№6.exe
-D:\repository\пмм№6\пмм№6\obj\Debug\пмм№6.pdb
-D:\repository\VolGU\пмм№6\пмм№6\bin\Debug\пмм№6.exe.config
-D:\repository\VolGU\пмм№6\пмм№6\bin\Debug\пмм№6.exe
-D:\repository\VolGU\пмм№6\пмм№6\bin\Debug\пмм№6.pdb
-D:\repository\VolGU\пмм№6\пмм№6\bin\Debug\OpenTK.dll
-D:\repository\VolGU\пмм№6\пмм№6\bin\Debug\OpenTK.GLControl.dll
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм№6.csprojAssemblyReference.cache
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм_6.Form1.resources
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм_6.Properties.Resources.resources
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.GenerateResource.cache
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.CopyComplete
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм№6.exe
-D:\repository\VolGU\пмм№6\пмм№6\obj\Debug\пмм№6.pdb
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\bin\Debug\пмм№6.exe.config
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\bin\Debug\пмм№6.exe
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\bin\Debug\пмм№6.pdb
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм№6.csprojAssemblyReference.cache
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм_6.Form1.resources
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм_6.Properties.Resources.resources
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.GenerateResource.cache
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм№6.csproj.CopyComplete
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм№6.exe
+D:\repository\старые лабы\ПММ и ЧМ\пмм№6\пмм№6\obj\Debug\пмм№6.pdb
